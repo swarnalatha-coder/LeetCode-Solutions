@@ -1,1 +1,2 @@
-LeetCode Sync
+env:
+  ACTIONS_STEP_DEBUG: true
