@@ -1,2 +1,28 @@
-env:
-  ACTIONS_STEP_DEBUG: true
+name: LeetCode Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  sync_leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install LeetCode CLI
+        run: npm install -g leetcode-cli
+
+      - name: Log in to LeetCode
+        run: leetcode user login --username ${{ secrets.LEETCODE_USER }} --password ${{ secrets.LEETCODE_PASS }}
+
+      - name: Fetch Latest Solutions
+        run: leetcode list -q e > solutions.txt
+
+      - name: Commit & Push Updates
+        run: |
+          git add solutions.txt
+          git commit -m "Auto-synced LeetCode solutions"
+          git push origin main
