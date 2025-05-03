@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
