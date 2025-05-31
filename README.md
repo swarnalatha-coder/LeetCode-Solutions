@@ -62,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
