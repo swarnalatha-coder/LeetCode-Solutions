@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0969-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
