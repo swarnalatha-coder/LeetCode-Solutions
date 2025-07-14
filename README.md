@@ -78,5 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0507-perfect-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0507-perfect-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
