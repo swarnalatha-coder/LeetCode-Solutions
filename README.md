@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0804-rotated-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0804-rotated-digits) |
+| [1642-water-bottles](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
