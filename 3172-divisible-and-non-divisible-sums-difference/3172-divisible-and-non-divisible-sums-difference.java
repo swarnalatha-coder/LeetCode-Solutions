@@ -4,12 +4,12 @@ class Solution {
         int num2=0;
         for(int i=1;i<=n;i++){
             if(i%m==0){
-                num1+=i;
+                num2+=i;
             }
             else{
-            num2+=i;
+            num1+=i;
             }
         }
-        return num2-num1;
+        return num1-num2;
     }
 }
