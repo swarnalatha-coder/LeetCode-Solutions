@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0804-rotated-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0804-rotated-digits) |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
