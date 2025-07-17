@@ -88,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0804-rotated-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0804-rotated-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
 | ------- |
