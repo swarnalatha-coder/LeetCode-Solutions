@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
