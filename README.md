@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2737-row-with-maximum-ones) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3330-modify-the-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3398-make-a-square-with-the-same-color) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Counting
 |  |
 | ------- |
