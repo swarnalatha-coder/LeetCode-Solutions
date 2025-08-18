@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Counting
