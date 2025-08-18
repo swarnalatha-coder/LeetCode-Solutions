@@ -1,27 +1,40 @@
 class Solution {
   public int[] searchRange(int[] nums, int target) {
-    int first = findPosition(nums, target, true);
-    int last = findPosition(nums, target, false);
-    return new int[] { first, last };
-  }
+    int res[] = { -1, -1 };
+    int start = 0, end = nums.length - 1;
 
-  private int findPosition(int[] nums, int target, boolean findFirst) {
-    int left = 0, right = nums.length - 1, pos = -1;
-    while (left <= right) {
-      int mid = left + (right - left) / 2;
-      if (nums[mid] == target) {
-        pos = mid;
-        if (findFirst) {
-          right = mid - 1;
-        } else {
-          left = mid + 1;
+    while (start <= end) {
+
+      int mid = start + (end - start) / 2;
+
+      if (target == nums[mid]) {
+        int k = mid - 1;
+        while (k >= 0 && nums[k] == target) {
+          k--;
         }
-      } else if (nums[mid] < target) {
-        left = mid + 1;
+        res[0] = k + 1;
+        while (mid < nums.length && nums[mid] == target) {
+          mid++;
+        }
+        res[1] = mid - 1;
+        break;
+      }
+
+      if (nums[mid] > nums[end]) {
+        if (target > nums[mid]) {
+          end = mid - 1;
+        } else {
+          start = mid + 1;
+        }
       } else {
-        right = mid - 1;
+        if (target > nums[mid]) {
+          start = mid + 1;
+        } else {
+          end = mid - 1;
+        }
       }
     }
-    return pos;
+
+    return res;
   }
 }
