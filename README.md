@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2737-row-with-maximum-ones](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3330-modify-the-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Counting
 |  |
