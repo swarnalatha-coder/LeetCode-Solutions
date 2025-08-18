@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Counting
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Design
 |  |
 | ------- |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
