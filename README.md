@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
