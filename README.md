@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0682-baseball-game](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
