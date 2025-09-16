@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+with temp as(select id,num,lead(num,1) over(order by id) as second_number, lead(num,2) over(order by id) as third_number from logs) select distinct num as Consecutivenums from temp where num = second_number and num=third_number;
