@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2481-strictly-palindromic-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
