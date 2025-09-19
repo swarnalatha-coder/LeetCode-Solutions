@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2737-row-with-maximum-ones](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3330-modify-the-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2737-row-with-maximum-ones](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3398-make-a-square-with-the-same-color) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Counting Sort
 |  |
 | ------- |
@@ -292,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
+## Graph
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
