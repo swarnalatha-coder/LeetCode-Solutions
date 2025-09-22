@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
