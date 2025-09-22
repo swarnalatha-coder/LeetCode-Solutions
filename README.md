@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
