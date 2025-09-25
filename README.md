@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0804-rotated-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0804-rotated-digits) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
