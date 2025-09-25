@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
