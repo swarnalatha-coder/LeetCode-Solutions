@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0804-rotated-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0804-rotated-digits) |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 ## Trie
 |  |
