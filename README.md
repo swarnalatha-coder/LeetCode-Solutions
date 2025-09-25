@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
