@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
@@ -352,4 +353,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
