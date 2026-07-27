@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Counting Sort
 |  |
