@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
 |  |
 | ------- |
