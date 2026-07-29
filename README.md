@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Recursion
 |  |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Memoization
 |  |
